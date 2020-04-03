@@ -1,0 +1,15 @@
+{
+  "name": "tarea7.2",
+  "version": "1.0.0",
+  "description": "tarea del 28/03, parte 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/suites",
+    "test:safari": "testcafe safari tests/suites"
+  },
+  "keywords": [
+    "tarea"
+  ],
+  "author": "Joaquin Miranda",
+  "license": "ISC"
+}
